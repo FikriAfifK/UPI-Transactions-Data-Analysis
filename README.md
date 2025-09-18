@@ -1,8 +1,6 @@
 # 📊 UPI Transactions Data Analysis
 
-Interactive analysis of UPI (Unified Payments Interface) transactions using dashboards.  
-UPI is a real-time payment system developed by the **National Payments Corporation of India (NPCI)**, enabling instant bank-to-bank transfers using **Virtual Payment Address (VPA)**, mobile number, or QR Code.  
-Popular UPI-based apps in India include Google Pay, PhonePe, Paytm, and BHIM.
+Interactive analysis of UPI (Unified Payments Interface) transactions using dashboards. UPI is a real-time payment system developed by the **National Payments Corporation of India (NPCI)**, enabling instant bank-to-bank transfers using **Virtual Payment Address (VPA)**, mobile number, or QR Code. Popular UPI-based apps in India include Google Pay, PhonePe, Paytm, and BHIM.
 
 ---
 
